@@ -9,3 +9,8 @@ gem 'sinatra-contrib'
 gem 'rspec'
 gem 'capybara'
 gem "sinatra-reloader"
+
+gem 'pg'
+
+gem 'capybara', group: :test
+gem 'rspec', group: :test
