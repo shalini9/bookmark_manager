@@ -9,6 +9,7 @@ gem 'sinatra-contrib'
 gem 'rspec'
 gem 'capybara'
 gem "sinatra-reloader"
+gem 'launchy'
 
 gem 'pg'
 
